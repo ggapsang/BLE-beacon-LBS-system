@@ -1,10 +1,5 @@
 # BLE Beacon 기반 Quick LBS 시스템 — 개발 명세
 
-> 금성 AGV 위치 추정 PoC. 작성일 2026-10-20 / v4
-> 대상: 구현 담당(Claude Code 포함). 구현에 필요한 요구사항·규격 중심.
-
----
-
 ## 1. 개요
 
 AGV에 손대지 않고 BLE Beacon + 스마트폰 공기계로 AGV 위치를 추정한다.
